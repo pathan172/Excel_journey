@@ -15,8 +15,41 @@ This repository contains my daily Excel learning and practice as part of my Data
 - Sorting and filtering
 - Basic data handling
 
-### File
-- `DAY_1 excel.xlsx` - Excel practice file for Day 1
+## 📅 Day 2 — Data Cleaning & Excel Functions
+
+### Topics Covered
+
+#### 🧹 Data Cleaning
+- Remove Duplicates using Excel shortcuts
+- Remove blank spaces
+- Remove blank rows
+- Fix negative stock values
+- Split data into separate columns
+
+#### 🧮 Excel Functions
+- `TRIM()` — Remove unnecessary spaces
+- `SUBSTITUTE()` — Replace specific text or characters
+- `IF()` — Apply logical conditions
+- `LEFT()` — Extract characters from the left
+- `RIGHT()` — Extract characters from the right
+
+#### 🔤 Text & Data Transformation
+- Change text case using formulas
+- Clean inconsistent text data
+- Extract specific information from text
+- Replace unwanted characters or values
+- Apply conditions to data
+- Transform raw data into an analysis-ready format
+
+### Skills Practiced
+
+- Data cleaning and preprocessing
+- Text manipulation using formulas
+- Handling missing and incorrect data
+- Removing duplicates and unnecessary spaces
+- Extracting and transforming data
+- Applying logical conditions
+
 
 ## Goal 🎯
 
