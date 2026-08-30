@@ -49,6 +49,39 @@ This repository contains my daily Excel learning and practice as part of my Data
 - Removing duplicates and unnecessary spaces
 - Extracting and transforming data
 - Applying logical conditions
+ 
+ 
+## 📅 Day 3 — Logical Functions & Conditional Analysis
+
+### Topics Covered
+
+#### 🧮 IF Function
+- Used `IF()` to apply conditions to data
+- Created conditions based on different criteria
+- Calculated employee incentives using `IF()`
+- Used conditional logic to classify and evaluate data
+
+#### 🔗 Logical Functions
+- `AND()` — Checked whether multiple conditions are TRUE
+- `OR()` — Checked whether at least one condition is TRUE
+- Combined `IF()` with `AND()` and `OR()` for advanced conditions
+
+### 📊 Practical Analysis
+
+- Calculated incentives based on employee performance and conditions
+- Applied multiple conditions using `AND()` and `OR()`
+- Used formulas to automate decision-making
+- Practiced conditional data analysis on real datasets
+
+### 💡 Skills Practiced
+
+- Conditional logic
+- Incentive calculation
+- Multiple-condition analysis
+- Data classification
+- Formula-based decision making
+- Using `IF()`, `AND()`, and `OR()` together
+- Automating calculations in Excel
 
 
 ## Goal 🎯
