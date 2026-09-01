@@ -82,6 +82,7 @@ This repository contains my daily Excel learning and practice as part of my Data
 - Formula-based decision making
 - Using `IF()`, `AND()`, and `OR()` together
 - Automating calculations in Excel
+-Improve our skils
 
 
 ## Goal 🎯
