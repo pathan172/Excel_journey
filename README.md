@@ -83,6 +83,7 @@ This repository contains my daily Excel learning and practice as part of my Data
 - Using `IF()`, `AND()`, and `OR()` together
 - Automating calculations in Excel
 -Improve our skils
+  -Improve to formulation
 
 
 ## Goal 🎯
